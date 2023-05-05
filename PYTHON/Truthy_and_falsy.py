@@ -16,5 +16,5 @@ elif var4 :
 else :
     print('will execute')
 
-#This is all about truthy and falsy values in python       
-   
+#This is all about truthy and falsy values in python
+#just checking some git code not related to python
